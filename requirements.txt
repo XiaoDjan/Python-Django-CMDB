@@ -1,0 +1,5 @@
+Django==2.1.7
+pypiwin32==223
+pytz==2018.9
+pywin32==224
+WMI==1.4.9
